@@ -54,10 +54,10 @@ Bengaluru, India
 ## Projects
 1. **Alzheimer’s Disease classifier from fMRI data** \
 Leveraged machine learning approaches to accurately classify and predict Alzheimer’s Disease patients, Mild Cognitive Impairment patients, and Healthy Controls using 60 fMRI scans from the ADNI database, achieving a prediction accuracy of 78%. 
-\
+
 2. **CityScout - Identifying Safe Cities Based on Crime Statistics** \
 Lauched a web-based tool to identify safe U.S. cities for various use cases (e.g., girls’ trips, family relocation, vacation with children, etc.) and customizable filters tailored to specific demographics (e.g., resident, gender, children, etc.) by analyzing 2TB of FBI crime data using PySpark on Google Cloud Platform and Tableau for data visualization.
-\
+
 3. **Comparison of ML models to predict absorption properties** \
 Applied and compared four machine learning models to predict human plasma protein binding rate (PPBR), bioavailability (BIO) and parallel artificial membrane permeability assay (PAMPA) aiming to contribute to the advancement of predictive modeling in drug discovery. Utilized at least 11 features per property and the PyTDC data to build models, achieving a model accuracy of 71%.
 
