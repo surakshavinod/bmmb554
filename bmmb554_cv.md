@@ -103,6 +103,7 @@ Applied and compared four machine learning models to predict human plasma protei
  - **Bioinformatics Software:** DESeq2, BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner
  - **Workflow Management and Containers:** Nextflow, Docker, conda/miniconda
  - **Version Control:** Git
- - **Libraries/Other:** HPC, AWS, NumPy, Pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny
+ - **Libraries:** numpy, pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny
+ - **Other:** HPC, AWS, Microsoft Azure, OpenRefine, PySpark
  - **Languages:** English, Hindi, Kannada, French (Beginner), German (Beginner)
 
