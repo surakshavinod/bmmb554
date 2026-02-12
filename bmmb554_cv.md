@@ -1,13 +1,9 @@
 # Suraksha Vinod
 
 📍 State College, PA \
-📧 **Email:** suraksha.vinlak@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/surakshavinod  
-🔗 **GitHub:** https://github.com/surakshavinod  
-
----
-
-![image]()
+📧 **Email:** suraksha.vinlak@gmail.com  \
+\
+[LinkedIn](https://linkedin.com/in/surakshavinod) | [GitHub](https://github.com/surakshavinod)
 
 ---
 
