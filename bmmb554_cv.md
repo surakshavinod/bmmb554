@@ -74,19 +74,35 @@ Applied and compared four machine learning models to predict human plasma protei
 ---
 
 ## Awards and Grants
-- Computational Biology Faculty Research Award (x2) - 2024
-- Prof. M R Doreswamy Merit Scholarship Award Certificate (x5) - 2020 - 2023
-- Best Paper Award - I-SENTIENT 2022
-- 1st Runners-up - Nutrathon 2022 
-- Millennium Fellowship (by United Nations Academic Impact and Millennium Campus Network) 2021
-- 2nd Runners-up - Druggathon 2021 2021
-- Distinction Award Certificate (x2) 2020 - 2023
+
+**Computational Biology Faculty Research Award (x2)**  
+*Georgia Institute of Technology*, 2024  
+
+**Prof. M. R. Doreswamy Merit Scholarship (x5)**  
+*PES University*, 2020–2023  
+
+**Best Paper Award**  
+*I-SENTIENT Conference, School of Sciences at Jain (Deembed-to-be University)*, 2022  
+
+**1st Runner-up – Nutrathon**  
+*PES University*, 2022  
+
+**Millennium Fellowship**  
+*United Nations Academic Impact & Millennium Campus Network*, 2021  
+
+**2nd Runner-up – Druggathon**  
+*PES University*, 2021  
+
+**Distinction Award (x2)**  
+*PES University*, 2020–2023  
 
 ---
 
 ## Skills
- - **Programming/Workflow/Containers:** Python, R, SQL, D3.js, Nextflow, Docker, Git, Bash
+ - **Programming Languages:** Python, R, Bash, SQL
  - **Bioinformatics Software:** DESeq2, BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner
- - **Libraries/Other:** HPC, AWS, NumPy, Pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny, conda/miniconda, Jupyter Notebook, OpenRefine, Python Flask
+ - **Workflow Management and Containers:** Nextflow, Docker, conda/miniconda
+ - **Version Control:** Git
+ - **Libraries/Other:** HPC, AWS, NumPy, Pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny
  - **Languages:** English, Hindi, Kannada, French (Beginner), German (Beginner)
 
