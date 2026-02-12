@@ -23,27 +23,27 @@ Aug 2019 – May 2023
 ---
 
 ## Experience
-**Graduate Research Assistant - Georgia Institute of Technology**
+**Graduate Research Assistant - Georgia Institute of Technology** \
 _Jan '24 - Dec '24_ \
 Atlanta, GA 
 - Developed a computational pipeline to investigate the influence of ancestry and environment on polygenic scores across five diseases in a diverse WGS cohort of ~10,000 individuals
 - Integrated DNA methylation data to explore the impact of weathering on the disease risk profiles
 
-**Summer Intern - M.D. Anderson Cancer Center**
+**Summer Intern - M.D. Anderson Cancer Center** \
 _Jun '24 - Aug '24_ \
 Houston, TX 
 - Implemented machine learning models with over 35,000 features to predict the tumor-specific total mRNA expression (TmS) across the two lung cancer types.
 - Performed survival analysis on TCGA datasets to examine time-to-event data, successfully identifying the significant factors influencing patient outcomes, which informed clinical decision-making.
 - Conducted Gene Set Enrichment Analysis (GSEA) with over 30,000 genes to validate the results, identifying the significantly over-expressed genes and pathways associated with cancer, contributing to the understanding of disease mechanisms. 
 
-**Project Intern - Indian Institute of Science**
+**Project Intern - Indian Institute of Science** \
 _Jan '23 - Jun '23_ \
 Bengaluru, India 
 - Spearheaded rare variant-specific genome wide association studies (GWAS) utilizing WGS data in a cohort of over 2000 individuals. 
 - Developed and optimized an extensive parallelized computational pipeline to detect disease associations with rare variants and identify causal variants, and interpretation of the GWAS results using statistical plots. 
 - Developed an automated computational pipeline to run quality control measures and downstream genomic data analyses. 
 
-**Research Intern - Leucine Rich Bio Pvt Ptd**
+**Research Intern - Leucine Rich Bio Pvt Ptd** \
 _Jun '22 - Dec '22_ \
 Bengaluru, India 
 - Curated and managed a comprehensive database highlighting key insights on the gut microbiome and its association with neurodegenerative diseases, specifically Parkinson’s disease (PD), facilitating data interpretation.
@@ -54,8 +54,10 @@ Bengaluru, India
 ## Projects
 1. **Alzheimer’s Disease classifier from fMRI data** \
 Leveraged machine learning approaches to accurately classify and predict Alzheimer’s Disease patients, Mild Cognitive Impairment patients, and Healthy Controls using 60 fMRI scans from the ADNI database, achieving a prediction accuracy of 78%. 
+\
 2. **CityScout - Identifying Safe Cities Based on Crime Statistics** \
 Lauched a web-based tool to identify safe U.S. cities for various use cases (e.g., girls’ trips, family relocation, vacation with children, etc.) and customizable filters tailored to specific demographics (e.g., resident, gender, children, etc.) by analyzing 2TB of FBI crime data using PySpark on Google Cloud Platform and Tableau for data visualization.
+\
 3. **Comparison of ML models to predict absorption properties** \
 Applied and compared four machine learning models to predict human plasma protein binding rate (PPBR), bioavailability (BIO) and parallel artificial membrane permeability assay (PAMPA) aiming to contribute to the advancement of predictive modeling in drug discovery. Utilized at least 11 features per property and the PyTDC data to build models, achieving a model accuracy of 71%.
 
