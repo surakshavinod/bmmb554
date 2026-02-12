@@ -3,6 +3,8 @@
 **LinkedIn:** https://linkedin.com/in/surakshavinod \
 **GitHub:** https://github.com/surakshavinod
 
+![image](https://medlineplus.gov/images/PX000098_PRESENTATION.jpeg)
+
 ## Education
 **Doctor of Philosophy** (Bioinformatics and Genomics) \
 The Pennsylvania State University - State Collge, PA \
