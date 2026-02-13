@@ -8,15 +8,15 @@
 ---
 
 ## Education
-**Doctor of Philosophy (Ph.D.) – Bioinformatics and Genomics**  
+**Doctor of Philosophy – Bioinformatics and Genomics**  
 *The Pennsylvania State University, State College, PA*  
 Aug 2025 – Present  
 
-**Master of Science (M.S.) – Bioinformatics**  
+**Master of Science – Bioinformatics**  
 *Georgia Institute of Technology, Atlanta, GA*  
 Aug 2023 – May 2025  
 
-**Bachelor of Technology (B.Tech.) – Biotechnology**  
+**Bachelor of Technology – Biotechnology**  
 *PES University, India*  
 Aug 2019 – May 2023  
 
@@ -65,8 +65,11 @@ Applied and compared four machine learning models to predict human plasma protei
 
 ## Manuscripts and Presentations
 1. Paul, A., Ji, S., Lal, J.C., Fong, C., **Vinod, S.**, Hu, H., et al. Machine learning models predict tumor-specific total mRNA expression associated with clinical outcomes across 14 cancer types [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; Part 1 (Regular Abstracts); 2025 Apr 25-30; Chicago, IL. Philadelphia (PA): AACR; _Cancer Res 2025_;85(8_Suppl_1):Abstract nr 1095.
+
 2. **Vinod, S.**, Rajesh, S., KN, S., Karunakar, P. (2024). Identifying anti-diabetic potential of alpha-amylase inhibitors in _Ocimum basilicum_ using In vitro and In silico approaches. _Suranaree Journal of Science and Technology, 30_(6), 030159(1-10). https://doi.org/10.55766/sujst-2023-06-e01323
+
 3. **Vinod, S.**, Karunakar, P. (Poster) Identification of potential inhibitor against Nipah virus using In silico approach. _I-SENTIENT_, School of Sciences, Jain (Deemed-to-be) University. September 2022.
+ 
 4. **Vinod, S.**, Rajesh, S., Karunakar, P., KN, S. Evaluating the anti-diabetic activity of alpha-amylase inhibitors in _Cuminum cyminum_ using In vitro and In silico approach. _International Journal of Computational Biology and Drug Design_. Under review.
 
 ---
@@ -98,10 +101,10 @@ Applied and compared four machine learning models to predict human plasma protei
 
 ## Skills
  - **Programming Languages:** Python, R, Bash, SQL
- - **Bioinformatics Software:** DESeq2, BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner
+ - **Bioinformatics Software:** BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner
  - **Workflow Management and Containers:** Nextflow, Docker, conda/miniconda
  - **Version Control:** Git
- - **Libraries:** numpy, pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny
+ - **Libraries:** numpy, pandas, scikit-learn, Matplotlib, DESeq2, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny
  - **Other:** HPC, AWS, Microsoft Azure, OpenRefine, PySpark
  - **Languages:** English, Hindi, Kannada, French (Beginner), German (Beginner)
 
