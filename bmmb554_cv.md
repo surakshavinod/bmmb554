@@ -111,3 +111,7 @@ Applied and compared four machine learning models to predict human plasma protei
  - **Other:** HPC, AWS, Microsoft Azure, OpenRefine, PySpark
  - **Languages:** English, Hindi, Kannada, French (Beginner), German (Beginner)
 
+---
+
+## References
+Available on request.
