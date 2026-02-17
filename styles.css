@@ -1,0 +1,38 @@
+/* Custom styles for the website */
+
+/* Improve readability */
+body {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+/* Style for CV sections */
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #dee2e6;
+  padding-bottom: 0.5rem;
+}
+
+/* Improve link visibility */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Better spacing for lists */
+ul, ol {
+  margin-bottom: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Style for blog post cards */
+.quarto-post {
+  margin-bottom: 2rem;
+}
