@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Suraksha Vinod"
+  description: "Bioinformatics & Genomics PhD Student at Penn State"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: posts.qmd
+    right:
+      - icon: github
+        href: https://github.com/surakshavinod
+      - icon: linkedin
+        href: https://linkedin.com/in/surakshavinod
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

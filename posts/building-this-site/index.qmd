@@ -1,0 +1,158 @@
+---
+title: "Building This Website with Quarto"
+description: "How I created a professional academic website using Quarto and GitHub Pages"
+author: "Suraksha Vinod"
+date: "2026-02-17"
+categories: [web-development, quarto, tutorial]
+image: "thumbnail.jpg"
+---
+
+## Introduction
+
+Welcome to my first blog post! In this article, I'll walk you through how I built this website using Quarto, a modern publishing system that's particularly well-suited for academic and technical content.
+
+## Why Quarto?
+
+As a bioinformatics PhD student, I needed a platform that could:
+
+1. **Handle Technical Content**: Support for code blocks, mathematical equations, and scientific notation
+2. **Be Easy to Maintain**: Simple markdown-based content creation
+3. **Look Professional**: Clean, responsive design without extensive CSS work
+4. **Support Blogging**: Easy way to share research insights and tutorials
+5. **Integrate with GitHub**: Seamless version control and deployment
+
+Quarto checked all these boxes and more. It's built by Posit (formerly RStudio) and is designed specifically for creating scientific and technical documents.
+
+## Website Structure
+
+This website has a simple but effective structure:
+
+### Home Page (CV)
+The landing page features my curriculum vitae, showcasing my education, experience, projects, and publications. Using Quarto's `about` page template with the "jolla" style gives it a clean, professional look with social media links prominently displayed.
+
+### Blog Section
+A dedicated blog area where I can share:
+- Research insights and findings
+- Tutorials on bioinformatics tools and techniques
+- Career reflections and advice
+- Conference experiences
+
+Each blog post lives in its own directory under `posts/`, which makes it easy to organize post-specific assets like images and data files.
+
+## Technology Stack
+
+Here's what powers this website:
+
+- **Quarto**: The static site generator that converts markdown files into HTML
+- **GitHub**: Version control for tracking all changes
+- **GitHub Actions**: Automated CI/CD pipeline that builds and deploys the site
+- **GitHub Pages**: Free hosting for the published website
+
+## Automated Deployment with GitHub Actions
+
+One of the best features of this setup is the automated deployment pipeline. Every time I push changes to the main branch:
+
+1. GitHub Actions triggers automatically
+2. The workflow sets up Quarto in a clean environment
+3. Quarto renders all `.qmd` files into HTML
+4. The generated `_site/` directory is deployed to GitHub Pages
+5. The website updates within minutes
+
+This means I can focus on writing content without worrying about the build and deployment process.
+
+## The Build Process
+
+Here's what happens when Quarto builds the site:
+
+```bash
+quarto render
+```
+
+This single command:
+- Processes all `.qmd` (Quarto markdown) files
+- Applies the theme and styling from `_quarto.yml`
+- Generates the blog listing page
+- Creates navigation structure
+- Outputs a complete static website in `_site/`
+
+## Project Configuration
+
+The heart of the website is the `_quarto.yml` configuration file, which defines:
+
+- **Project type**: Website
+- **Navigation structure**: Home and Blog pages
+- **Theme**: Cosmo (a clean, professional Bootstrap theme)
+- **Social links**: GitHub and LinkedIn
+- **Output directory**: `_site/`
+
+## Adding New Blog Posts
+
+Creating a new blog post is straightforward:
+
+1. Create a new directory under `posts/` with a descriptive name
+2. Add an `index.qmd` file with YAML frontmatter
+3. Write the content in markdown
+4. Push to GitHub - the site automatically rebuilds!
+
+Example frontmatter:
+```yaml
+---
+title: "Your Post Title"
+description: "Brief description"
+author: "Your Name"
+date: "2026-02-17"
+categories: [category1, category2]
+---
+```
+
+## Features I Love
+
+### Clean URLs
+Each blog post gets a clean URL structure: `yoursite.com/posts/post-name/`
+
+### Automatic Listings
+The blog listing page automatically updates with new posts, sorted by date, with categories and descriptions.
+
+### Responsive Design
+The site looks great on mobile, tablet, and desktop without any extra work.
+
+### Fast and Lightweight
+As a static site, it loads incredibly quickly and requires no server-side processing.
+
+## Future Improvements
+
+Here are some enhancements I'm considering:
+
+- Adding a search functionality
+- Including code execution for interactive examples
+- Adding images and visualizations to posts
+- Creating a projects showcase page
+- Adding RSS feed for blog subscribers
+- Implementing comments system (possibly via GitHub discussions)
+
+## Getting Started with Your Own Site
+
+If you're interested in creating a similar website, here are the basic steps:
+
+1. Install Quarto from [quarto.org](https://quarto.org)
+2. Create a `_quarto.yml` configuration file
+3. Write your content in `.qmd` files
+4. Preview locally with `quarto preview`
+5. Set up GitHub Actions for deployment
+6. Configure GitHub Pages in your repository settings
+
+## Resources
+
+- [Quarto Documentation](https://quarto.org/docs/guide/)
+- [Quarto Gallery](https://quarto.org/docs/gallery/) - Inspiration from other sites
+- [GitHub Actions for Quarto](https://github.com/quarto-dev/quarto-actions)
+
+## Conclusion
+
+Building this website with Quarto has been a rewarding experience. The combination of simplicity, power, and automation makes it an excellent choice for academic and technical professionals who want to maintain a professional web presence without getting bogged down in web development complexities.
+
+I'm excited to use this platform to share my research journey, tutorials, and insights. Stay tuned for more posts about bioinformatics, genomics, and computational biology!
+
+---
+
+*Have questions about setting up your own Quarto website? Feel free to reach out via [email](mailto:suraksha.vinlak@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/surakshavinod)!*

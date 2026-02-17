@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, categories]
+---
+
+Welcome to my blog where I share insights about bioinformatics, genomics, and computational biology.
