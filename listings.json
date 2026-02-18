@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/dal-recipe/index.html",
       "/posts/building-this-site/index.html"
     ]
   }
