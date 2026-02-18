@@ -2,7 +2,6 @@
 title: "Suraksha Vinod"
 about:
   template: jolla
-  image: profile.jpg
   links:
     - icon: envelope
       text: Email
