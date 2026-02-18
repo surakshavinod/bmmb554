@@ -1,12 +1,7 @@
 ---
 title: "Suraksha Vinod"
-format:
-  html:
-    theme: journal
-    css: styles.css
 about:
-  template:
-  image:
+  template: solano
   links:
     - icon: envelope
       text: Email
