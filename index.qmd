@@ -99,31 +99,32 @@ Applied and compared four machine learning models to predict human plasma protei
 ---
 
 ## Honors and Awards
-
-**Computational Biology Faculty Research Award (x2)**
-*Georgia Institute of Technology*, 2024
-
-**Prof. M. R. Doreswamy Merit Scholarship (x5)**
-*PES University*, 2020–2023
-
-**Best Paper Award**
-*I-SENTIENT Conference, School of Sciences at Jain (Deembed-to-be University)*, 2022
-
-**1st Runner-up – Nutrathon**
-*PES University*, 2022
-
-**Millennium Fellowship**
-*United Nations Academic Impact & Millennium Campus Network*, 2021
-
-**2nd Runner-up – Druggathon**
-*PES University*, 2021
-
-**Distinction Award (x2)**
-*PES University*, 2020–2023
+  
+**Computational Biology Faculty Research Award (x2)**  
+*Georgia Institute of Technology*, 2024  
+  
+**Prof. M. R. Doreswamy Merit Scholarship (x5)**  
+*PES University*, 2020–2023  
+  
+**Best Paper Award**  
+*I-SENTIENT Conference, School of Sciences at Jain (Deembed-to-be University)*, 2022  
+  
+**1st Runner-up – Nutrathon**  
+*PES University*, 2022  
+  
+**Millennium Fellowship**  
+*United Nations Academic Impact & Millennium Campus Network*, 2021  
+  
+**2nd Runner-up – Druggathon**  
+*PES University*, 2021  
+  
+**Distinction Award (x2)**  
+*PES University*, 2020–2023  
 
 ---
 
 ## Skills
+
  - **Programming Languages:** Python, R, Bash, SQL
  - **Bioinformatics Software:** BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner
  - **Workflow Management and Containers:** Nextflow, Docker, conda/miniconda
