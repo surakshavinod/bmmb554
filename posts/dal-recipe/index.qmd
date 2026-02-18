@@ -1,1 +1,12 @@
+---
+title: "Dal Recipe"
+description: "How to make dal"
+author: "Suraksha Vinod"
+date: "2026-02-18"
+categories: [cooking, recipe]
+image: "thumbnail.jpg"
+---
 
+## Introduction
+
+I wanted to try writing about what I had for lunch today.
