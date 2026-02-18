@@ -1,10 +1,24 @@
 /* Custom styles for the website */
 
+/* Force title block to be left aligned */
+.quarto-title-block {
+  text-align: left !important;
+}
+
+/* Also ensure subtitle is left aligned */
+.quarto-title-block .subtitle {
+  text-align: left !important;
+}
+
+/* Optional: reduce extra centering behavior */
+.quarto-title-block .quarto-title-meta {
+  justify-content: flex-start !important;
+}
+
 /* Improve readability */
 body {
   font-size: 1.1rem;
   line-height: 1.7;
-  text-align: left;
 }
 
 /* Style for CV sections */
