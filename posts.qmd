@@ -8,4 +8,4 @@ listing:
   fields: [date, title, description, categories]
 ---
 
-Welcome to my blog where I share insights about bioinformatics, genomics, and computational biology.
+Welcome to my blog where I share insights about bioinformatics, genomics, computational biology, and ocassionally other random happenings in life.
