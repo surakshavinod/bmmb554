@@ -56,6 +56,20 @@
     "text": "Available on request."
   },
   {
+    "objectID": "posts/dal-recipe/index.html",
+    "href": "posts/dal-recipe/index.html",
+    "title": "Dal Recipe",
+    "section": "",
+    "text": "I wanted to try writing about what I had for lunch today."
+  },
+  {
+    "objectID": "posts/dal-recipe/index.html#introduction",
+    "href": "posts/dal-recipe/index.html#introduction",
+    "title": "Dal Recipe",
+    "section": "",
+    "text": "I wanted to try writing about what I had for lunch today."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Suraksha Vinod",
@@ -214,6 +228,6 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to my blog where I share insights about bioinformatics, genomics, computational biology, and ocassionally other random happenings in life.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding This Website with Quarto\n\n\n\nweb-development\n\nquarto\n\ntutorial\n\n\n\nHow I created a professional academic website using Quarto and GitHub Pages\n\n\n\n\n\nFeb 17, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my blog where I share insights about bioinformatics, genomics, computational biology, and ocassionally other random happenings in life.\n\n\n\n\n\n\n\n\n\nDal Recipe\n\n\n\ncooking\n\nrecipe\n\n\n\nHow to make dal\n\n\n\n\n\nFeb 18, 2026\n\n\n\n\n\n\n\nBuilding This Website with Quarto\n\n\n\nweb-development\n\nquarto\n\ntutorial\n\n\n\nHow I created a professional academic website using Quarto and GitHub Pages\n\n\n\n\n\nFeb 17, 2026\n\n\n\n\n\nNo matching items"
   }
 ]
