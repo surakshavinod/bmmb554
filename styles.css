@@ -14,6 +14,11 @@ h2 {
   padding-bottom: 0.5rem;
 }
 
+/* Make bold text actually bold */
+strong {
+  font-weight: 700 !important;
+}
+
 /* Improve link visibility */
 a {
   text-decoration: none;
