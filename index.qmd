@@ -1,7 +1,8 @@
 ---
 title: "Your Name"
 subtitle: "Bioinformatics & Genomics PhD Student at Penn State"
-
+about:
+  template: solana
 ---
 
 Welcome to my website!
