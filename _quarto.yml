@@ -19,6 +19,6 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: journal
     css: styles.css
     toc: false
