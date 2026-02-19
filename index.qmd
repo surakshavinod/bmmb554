@@ -1,10 +1,7 @@
 ---
-title: "Your Name"
+title: "Suraksha"
 subtitle: "Bioinformatics & Genomics PhD Student at Penn State"
-format:
-  html:
-    theme: lux
-    css: styles.css
+
 ---
 
-Welcome to my website!
+# Welcome to my website!
