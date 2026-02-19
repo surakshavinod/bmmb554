@@ -9,4 +9,34 @@ image: "thumbnail.jpg"
 
 ## Introduction
 
-I wanted to try writing about what I had for lunch today.
+I wanted to try writing about what I had for lunch today.  
+
+Dal is a North Indian/South Asian dish that is made from red/yellow lentils.
+
+## Recipe
+
+**Ingredients:**  
+
+- 1 red onion, chopped
+- 1 tomato, chopped
+- 1 tbsp Ginger-garlic paste
+- 3-4 Indian/Thai green chilies, slit
+- 2 dried red chili
+- 1 tsp Cumin seeds
+- 1 cup toor dal/masoor dal (available at your local South Asian store/Walmart)
+- 3-4 tbsp cooking oil
+
+**Steps:**  
+
+1. First cook the 1 cup dal. I like to use a pressure cooker to do so (4 whistles; 1:2 - dal:water), but you can also boil it for about 30 mins or until it becomes soft and mushy.
+2. Mash the dal and keep it aside.
+3. Next, to a pan, add oil and let it warm up.
+4. Add cummin seeds, dried red chili and slit green chilies and wait for 2-3 minutes.
+5. Now, add the chopped red onion and ginger-garlic paste. Sautee it till it turns transparent.
+6. Add the tomatoes and stir until it's cooked, which should take no more than 6-7 mins.
+7. Add the mashed dal and stir.
+8. Add salt to taste, 1 tsp red chili powder, 1sp coriander powder, 1 tsp garam masala and a pinch of turmeric.
+9. Mix everything well.
+10. Add some water and let it simmer.
+11. Fix the spices to taste and let it cool.
+12. Add some ghee on top (optional) and enjoy!
