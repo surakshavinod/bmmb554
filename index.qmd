@@ -1,5 +1,5 @@
 ---
-title: "Suraksha"
+title: "Suraksha Vinod"
 subtitle: "Bioinformatics & Genomics PhD Student at Penn State"
 
 ---
