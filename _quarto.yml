@@ -7,8 +7,10 @@ website:
   description: "Bioinformatics & Genomics PhD Student at Penn State"
   navbar:
     left:
+      - text: "Home"
+      - href: index.qmd
       - text: "CV"
-        href: index.qmd
+        href: cv.qmd
       - text: "Blog"
         href: posts.qmd
     right:
