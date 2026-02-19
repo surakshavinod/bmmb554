@@ -8,7 +8,7 @@ website:
   navbar:
     left:
       - text: "Home"
-      - href: index.qmd
+        href: index.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Blog"
