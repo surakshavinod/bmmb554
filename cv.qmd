@@ -1,5 +1,7 @@
 ---
 title: "Suraksha Vinod"
+about:
+  template: solana
   links:
     - icon: envelope
       text: Email
