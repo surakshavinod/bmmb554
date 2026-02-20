@@ -4,7 +4,7 @@ toc: true
 toc-depth: 2
 ---
 
-<a href="cv.pdf" class="btn-cv" download>Download CV (PDF)</a>
+
 
 📍 State College, PA &nbsp;|&nbsp; [suraksha.vinlak@gmail.com](mailto:suraksha.vinlak@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/surakshavinod) &nbsp;|&nbsp; [GitHub](https://github.com/surakshavinod)
 
@@ -14,7 +14,7 @@ toc-depth: 2
 
 <div class="cv-entry">
 <span class="cv-title">Doctor of Philosophy – Bioinformatics and Genomics</span>
-<span class="cv-date">Aug 2025 – Present</span>
+<span class="cv-date">Aug 2025 – Present</span><br>
 <span class="cv-org">The Pennsylvania State University, State College, PA</span>
 </div>
 
