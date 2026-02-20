@@ -1,138 +1,240 @@
 ---
-title: "Suraksha Vinod"
-about:
-  template: solana
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:suraksha.vinlak@gmail.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/surakshavinod
-    - icon: github
-      text: GitHub
-      href: https://github.com/surakshavinod
+title: "Curriculum Vitae"
+toc: true
+toc-depth: 2
 ---
 
-📍 State College, PA
+<a href="cv.pdf" class="btn-cv" download>Download CV (PDF)</a>
+
+📍 State College, PA &nbsp;|&nbsp; [suraksha.vinlak@gmail.com](mailto:suraksha.vinlak@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/surakshavinod) &nbsp;|&nbsp; [GitHub](https://github.com/surakshavinod)
 
 ---
 
 ## Education
-**Doctor of Philosophy – Bioinformatics and Genomics**  
-*The Pennsylvania State University, State College, PA*  
-Aug 2025 – Present  
 
-**Master of Science – Bioinformatics**  
-*Georgia Institute of Technology, Atlanta, GA*  
-Aug 2023 – May 2025  
+<div class="cv-entry">
+<span class="cv-title">Doctor of Philosophy – Bioinformatics and Genomics</span>
+<span class="cv-date">Aug 2025 – Present</span>
+<span class="cv-org">The Pennsylvania State University, State College, PA</span>
+</div>
 
-**Bachelor of Technology – Biotechnology**  
-*PES University, India*  
-Aug 2019 – May 2023  
+<div class="cv-entry">
+<span class="cv-title">Master of Science – Bioinformatics</span>
+<span class="cv-date">Aug 2023 – May 2025</span>
+<span class="cv-org">Georgia Institute of Technology, Atlanta, GA</span>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">Bachelor of Technology – Biotechnology</span>
+<span class="cv-date">Aug 2019 – May 2023</span>
+<span class="cv-org">PES University, India</span>
+</div>
 
 ---
 
 ## Experience
-**Graduate Research Assistant - Georgia Institute of Technology**  
-_Jan '24 - Dec '24_  
-Atlanta, GA  
+
+<div class="cv-entry">
+<span class="cv-title">Graduate Research Assistant</span>
+<span class="cv-date">Jan 2024 – Dec 2024</span>
+<span class="cv-org">Georgia Institute of Technology, Atlanta, GA</span>
+<div class="cv-details">
 
 - Developed a computational pipeline to investigate the influence of ancestry and environment on polygenic scores across five diseases in a diverse WGS cohort of ~10,000 individuals
-- Integrated DNA methylation data to explore the impact of weathering on the disease risk profiles
+- Integrated DNA methylation data to explore the impact of weathering on disease risk profiles
 
-**Summer Intern - M.D. Anderson Cancer Center**  
-_Jun '24 - Aug '24_  
-Houston, TX  
+</div>
+</div>
 
-- Implemented machine learning models with over 35,000 features to predict the tumor-specific total mRNA expression (TmS) across the two lung cancer types.
-- Performed survival analysis on TCGA datasets to examine time-to-event data, successfully identifying the significant factors influencing patient outcomes, which informed clinical decision-making.
-- Conducted Gene Set Enrichment Analysis (GSEA) with over 30,000 genes to validate the results, identifying the significantly over-expressed genes and pathways associated with cancer, contributing to the understanding of disease mechanisms.
+<div class="cv-entry">
+<span class="cv-title">Summer Intern</span>
+<span class="cv-date">Jun 2024 – Aug 2024</span>
+<span class="cv-org">M.D. Anderson Cancer Center, Houston, TX</span>
+<div class="cv-details">
 
-**Project Intern - Indian Institute of Science**  
-_Jan '23 - Jun '23_  
-Bengaluru, India  
+- Implemented machine learning models with over 35,000 features to predict tumor-specific total mRNA expression (TmS) across two lung cancer types
+- Performed survival analysis on TCGA datasets to examine time-to-event data, identifying significant factors influencing patient outcomes
+- Conducted Gene Set Enrichment Analysis (GSEA) with over 30,000 genes to validate results and identify significantly over-expressed genes and pathways
 
-- Spearheaded rare variant-specific genome wide association studies (GWAS) utilizing WGS data in a cohort of over 2000 individuals.
-- Developed and optimized an extensive parallelized computational pipeline to detect disease associations with rare variants and identify causal variants, and interpretation of the GWAS results using statistical plots.
-- Developed an automated computational pipeline to run quality control measures and downstream genomic data analyses.
+</div>
+</div>
 
-**Research Intern - Leucine Rich Bio Pvt Ptd**  
-_Jun '22 - Dec '22_  
-Bengaluru, India  
+<div class="cv-entry">
+<span class="cv-title">Project Intern</span>
+<span class="cv-date">Jan 2023 – Jun 2023</span>
+<span class="cv-org">Indian Institute of Science, Bengaluru, India</span>
+<div class="cv-details">
 
-- Curated and managed a comprehensive database highlighting key insights on the gut microbiome and its association with neurodegenerative diseases, specifically Parkinson's disease (PD), facilitating data interpretation.
-- Explored the implications of gut microbiome on PD through Bioinformatics data analysis on Galaxy.
+- Spearheaded rare variant-specific genome-wide association studies (GWAS) utilizing WGS data in a cohort of over 2,000 individuals
+- Developed and optimized a parallelized computational pipeline to detect disease associations with rare variants and identify causal variants
+- Built an automated pipeline for quality control and downstream genomic data analyses
+
+</div>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">Research Intern</span>
+<span class="cv-date">Jun 2022 – Dec 2022</span>
+<span class="cv-org">Leucine Rich Bio Pvt Ltd, Bengaluru, India</span>
+<div class="cv-details">
+
+- Curated and managed a comprehensive database highlighting key insights on the gut microbiome and its association with Parkinson's disease
+- Explored gut microbiome implications through bioinformatics data analysis on Galaxy
+
+</div>
+</div>
 
 ---
 
 ## Projects
 
-1. **Alzheimer's Disease classifier from fMRI data** | **[GitHub](https://github.com/surakshavinod/Alzheimer-Disease-Classifier)**  
+1. **Alzheimer's Disease Classifier from fMRI Data** | [GitHub](https://github.com/surakshavinod/Alzheimer-Disease-Classifier) \
+   Leveraged machine learning approaches to classify Alzheimer's Disease patients, Mild Cognitive Impairment patients, and Healthy Controls using 60 fMRI scans from the ADNI database, achieving 78% prediction accuracy.
 
-Leveraged machine learning approaches to accurately classify and predict Alzheimer's Disease patients, Mild Cognitive Impairment patients, and Healthy Controls using 60 fMRI scans from the ADNI database, achieving a prediction accuracy of 78%.
+2. **CityScout – Identifying Safe Cities Based on Crime Statistics** | [GitHub](https://github.com/surakshavinod/CityScout) \
+   Built a web-based tool to identify safe U.S. cities using customizable filters by analyzing 2 TB of FBI crime data via PySpark on Google Cloud Platform with Tableau visualization.
 
-
-2. **CityScout - Identifying Safe Cities Based on Crime Statistics** | **[GitHub](https://github.com/surakshavinod/CityScout)**  
-
-Lauched a web-based tool to identify safe U.S. cities for various use cases (e.g., girls' trips, family relocation, vacation with children, etc.) and customizable filters tailored to specific demographics (e.g., resident, gender, children, etc.) by analyzing 2TB of FBI crime data using PySpark on Google Cloud Platform and Tableau for data visualization.
-
-
-3. **Comparison of ML models to predict absorption properties** | **[GitHub](https://github.com/surakshavinod/Model-Comparison-for-Absorption-Profile-Prediction)**  
-
-Applied and compared four machine learning models to predict human plasma protein binding rate (PPBR), bioavailability (BIO) and parallel artificial membrane permeability assay (PAMPA) aiming to contribute to the advancement of predictive modeling in drug discovery. Utilized at least 11 features per property and the PyTDC data to build models, achieving a model accuracy of 71%.
-
+3. **Comparison of ML Models to Predict Absorption Properties** | [GitHub](https://github.com/surakshavinod/Model-Comparison-for-Absorption-Profile-Prediction) \
+   Applied and compared four ML models to predict PPBR, bioavailability, and PAMPA for drug discovery applications, achieving 71% model accuracy using PyTDC data.
 
 ---
 
 ## Manuscripts and Presentations
 
-1. Paul, A., Ji, S., Lal, J.C., Fong, C., **Vinod, S.**, Hu, H., et al. Machine learning models predict tumor-specific total mRNA expression associated with clinical outcomes across 14 cancer types [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; Part 1 (Regular Abstracts); 2025 Apr 25-30; Chicago, IL. Philadelphia (PA): AACR; _Cancer Res 2025_;85(8_Suppl_1):Abstract nr 1095.
+<div class="publications">
 
-2. **Vinod, S.**, Rajesh, S., KN, S., Karunakar, P. (2024). Identifying anti-diabetic potential of alpha-amylase inhibitors in _Ocimum basilicum_ using In vitro and In silico approaches. _Suranaree Journal of Science and Technology, 30_(6), 030159(1-10). https://doi.org/10.55766/sujst-2023-06-e01323
+1. Paul, A., Ji, S., Lal, J.C., Fong, C., **Vinod, S.**, Hu, H., et al. Machine learning models predict tumor-specific total mRNA expression associated with clinical outcomes across 14 cancer types [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; 2025 Apr 25–30; Chicago, IL. *Cancer Res 2025*; 85(8_Suppl_1): Abstract nr 1095.
 
-3. **Vinod, S.**, Karunakar, P. (Poster) Identification of potential inhibitor against Nipah virus using In silico approach. _I-SENTIENT_, School of Sciences, Jain (Deemed-to-be) University. September 2022.
+2. **Vinod, S.**, Rajesh, S., KN, S., Karunakar, P. (2024). Identifying anti-diabetic potential of alpha-amylase inhibitors in *Ocimum basilicum* using In vitro and In silico approaches. *Suranaree Journal of Science and Technology, 30*(6), 030159(1–10). <https://doi.org/10.55766/sujst-2023-06-e01323>
 
-4. **Vinod, S.**, Rajesh, S., Karunakar, P., KN, S. Evaluating the anti-diabetic activity of alpha-amylase inhibitors in _Cuminum cyminum_ using In vitro and In silico approach. _International Journal of Computational Biology and Drug Design_. Under review.
+3. **Vinod, S.**, Karunakar, P. (Poster) Identification of potential inhibitor against Nipah virus using In silico approach. *I-SENTIENT*, School of Sciences, Jain (Deemed-to-be) University. September 2022.
+
+4. **Vinod, S.**, Rajesh, S., Karunakar, P., KN, S. Evaluating the anti-diabetic activity of alpha-amylase inhibitors in *Cuminum cyminum* using In vitro and In silico approach. *International Journal of Computational Biology and Drug Design*. Under review.
+
+</div>
 
 ---
 
 ## Honors and Awards
-  
-- **Computational Biology Faculty Research Award (x2)**  
-*Georgia Institute of Technology*, 2024  
-  
-- **Prof. M. R. Doreswamy Merit Scholarship (x5)**  
-*PES University*, 2020–2023  
-  
-- **Best Paper Award**  
-*I-SENTIENT Conference, School of Sciences at Jain (Deembed-to-be University)*, 2022  
-  
-- **1st Runner-up – Nutrathon**  
-*PES University*, 2022  
-  
-- **Millennium Fellowship**  
-*United Nations Academic Impact & Millennium Campus Network*, 2021  
-  
-- **2nd Runner-up – Druggathon**  
-*PES University*, 2021  
-  
-- **Distinction Award (x2)**  
-*PES University*, 2020–2023  
+
+<div class="cv-entry">
+<span class="cv-title">Computational Biology Faculty Research Award (×2)</span>
+<span class="cv-date">2024</span>
+<span class="cv-org">Georgia Institute of Technology</span>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">Prof. M. R. Doreswamy Merit Scholarship (×5)</span>
+<span class="cv-date">2020–2023</span>
+<span class="cv-org">PES University</span>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">Best Paper Award</span>
+<span class="cv-date">2022</span>
+<span class="cv-org">I-SENTIENT Conference, Jain University</span>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">1st Runner-up – Nutrathon</span>
+<span class="cv-date">2022</span>
+<span class="cv-org">PES University</span>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">Millennium Fellowship</span>
+<span class="cv-date">2021</span>
+<span class="cv-org">United Nations Academic Impact & Millennium Campus Network</span>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">2nd Runner-up – Druggathon</span>
+<span class="cv-date">2021</span>
+<span class="cv-org">PES University</span>
+</div>
+
+<div class="cv-entry">
+<span class="cv-title">Distinction Award (×2)</span>
+<span class="cv-date">2020–2023</span>
+<span class="cv-org">PES University</span>
+</div>
 
 ---
 
 ## Skills
 
- - **Programming Languages:** Python, R, Bash, SQL
- - **Bioinformatics Software:** BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner
- - **Workflow Management and Containers:** Nextflow, Docker, conda/miniconda
- - **Version Control:** Git
- - **Libraries:** numpy, pandas, scikit-learn, Matplotlib, DESeq2, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny
- - **Other:** HPC, AWS, Microsoft Azure, OpenRefine, PySpark
- - **Languages:** English, Hindi, Kannada, French (Beginner), German (Beginner)
+**Programming Languages**
+
+<div class="skill-badges">
+<span class="badge-skill badge-lang">Python</span>
+<span class="badge-skill badge-lang">R</span>
+<span class="badge-skill badge-lang">Bash</span>
+<span class="badge-skill badge-lang">SQL</span>
+</div>
+
+**Bioinformatics Tools**
+
+<div class="skill-badges">
+<span class="badge-skill badge-bio">BLAST</span>
+<span class="badge-skill badge-bio">Galaxy</span>
+<span class="badge-skill badge-bio">AlphaFold</span>
+<span class="badge-skill badge-bio">AutoDock Vina</span>
+<span class="badge-skill badge-bio">Desmond</span>
+<span class="badge-skill badge-bio">GSEA</span>
+<span class="badge-skill badge-bio">PLINK</span>
+<span class="badge-skill badge-bio">VCF/BCF Tools</span>
+<span class="badge-skill badge-bio">Annovar</span>
+<span class="badge-skill badge-bio">SwissADME</span>
+<span class="badge-skill badge-bio">OpenBabel</span>
+<span class="badge-skill badge-bio">LigPlot+</span>
+<span class="badge-skill badge-bio">CellDesigner</span>
+</div>
+
+**Libraries & Frameworks**
+
+<div class="skill-badges">
+<span class="badge-skill badge-lib">numpy</span>
+<span class="badge-skill badge-lib">pandas</span>
+<span class="badge-skill badge-lib">scikit-learn</span>
+<span class="badge-skill badge-lib">Matplotlib</span>
+<span class="badge-skill badge-lib">seaborn</span>
+<span class="badge-skill badge-lib">DESeq2</span>
+<span class="badge-skill badge-lib">dplyr</span>
+<span class="badge-skill badge-lib">tidyr</span>
+<span class="badge-skill badge-lib">Seurat</span>
+<span class="badge-skill badge-lib">ggplot2</span>
+<span class="badge-skill badge-lib">survival</span>
+<span class="badge-skill badge-lib">survminer</span>
+<span class="badge-skill badge-lib">TCGAbiolinks</span>
+<span class="badge-skill badge-lib">shiny</span>
+</div>
+
+**Workflow, Cloud & Other**
+
+<div class="skill-badges">
+<span class="badge-skill">Nextflow</span>
+<span class="badge-skill">Docker</span>
+<span class="badge-skill">conda/miniconda</span>
+<span class="badge-skill">Git</span>
+<span class="badge-skill">HPC</span>
+<span class="badge-skill">AWS</span>
+<span class="badge-skill">Microsoft Azure</span>
+<span class="badge-skill">PySpark</span>
+<span class="badge-skill">OpenRefine</span>
+</div>
+
+**Human Languages**
+
+<div class="skill-badges">
+<span class="badge-skill badge-lang">English</span>
+<span class="badge-skill badge-lang">Hindi</span>
+<span class="badge-skill badge-lang">Kannada</span>
+<span class="badge-skill badge-lang">French (Beginner)</span>
+<span class="badge-skill badge-lang">German (Beginner)</span>
+</div>
 
 ---
 
 ## References
-_Available on request._
+
+*Available on request.*

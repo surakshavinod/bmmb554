@@ -6,6 +6,8 @@ website:
   title: "Suraksha Vinod"
   description: "Bioinformatics & Genomics PhD Student at Penn State"
   navbar:
+    background: primary
+    foreground: light
     left:
       - text: "Home"
         href: index.qmd
@@ -18,9 +20,26 @@ website:
         href: https://github.com/surakshavinod
       - icon: linkedin
         href: https://linkedin.com/in/surakshavinod
+  page-footer:
+    left: "© 2025 Suraksha Vinod"
+    right:
+      - icon: github
+        href: https://github.com/surakshavinod
+      - icon: linkedin
+        href: https://linkedin.com/in/surakshavinod
+      - icon: envelope
+        href: mailto:suraksha.vinlak@gmail.com
 
 format:
   html:
-    theme: journal
+    theme: litera
     css: styles.css
     toc: false
+    smooth-scroll: true
+    mainfont: "Inter, system-ui, sans-serif"
+    monofont: "JetBrains Mono, monospace"
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
