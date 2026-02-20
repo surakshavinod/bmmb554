@@ -4,61 +4,61 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to my blog where I share insights about bioinformatics, genomics, computational biology, and ocassionally other random happenings in life.\n\n\n\n\n\n\n\n\n\nDal Recipe\n\n\n\ncooking\n\nrecipe\n\n\n\nHow to make dal\n\n\n\n\n\nFeb 18, 2026\n\n\n\n\n\n\n\nBuilding This Website with Quarto\n\n\n\nweb-development\n\nquarto\n\ntutorial\n\n\n\nHow I created a professional academic website using Quarto and GitHub Pages\n\n\n\n\n\nFeb 17, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my blog where I share insights about bioinformatics, genomics, computational biology, and ocassionally other random happenings in life.\n\n\n\n\n\n\n\n\n\n\n\nDal Recipe\n\n2 min\n\n\ncooking\n\nrecipe\n\n\n\nHow to make dal\n\n\n\nFeb 18, 2026\n\n\n\n\n\n\n\n\n\n\nBuilding This Website with Quarto\n\n4 min\n\n\nweb-development\n\nquarto\n\ntutorial\n\n\n\nHow I created a professional academic website using Quarto and GitHub Pages\n\n\n\nFeb 17, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "📍 State College, PA"
+    "text": "Download CV (PDF)\n📍 State College, PA  |  suraksha.vinlak@gmail.com  |  LinkedIn  |  GitHub"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nDoctor of Philosophy – Bioinformatics and Genomics\nThe Pennsylvania State University, State College, PA\nAug 2025 – Present\nMaster of Science – Bioinformatics\nGeorgia Institute of Technology, Atlanta, GA\nAug 2023 – May 2025\nBachelor of Technology – Biotechnology\nPES University, India\nAug 2019 – May 2023"
+    "text": "Education\n\nDoctor of Philosophy – Bioinformatics and Genomics Aug 2025 – Present The Pennsylvania State University, State College, PA\n\n\nMaster of Science – Bioinformatics Aug 2023 – May 2025 Georgia Institute of Technology, Atlanta, GA\n\n\nBachelor of Technology – Biotechnology Aug 2019 – May 2023 PES University, India"
   },
   {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "Experience",
-    "text": "Experience\nGraduate Research Assistant - Georgia Institute of Technology\nJan ’24 - Dec ’24\nAtlanta, GA\n\nDeveloped a computational pipeline to investigate the influence of ancestry and environment on polygenic scores across five diseases in a diverse WGS cohort of ~10,000 individuals\nIntegrated DNA methylation data to explore the impact of weathering on the disease risk profiles\n\nSummer Intern - M.D. Anderson Cancer Center\nJun ’24 - Aug ’24\nHouston, TX\n\nImplemented machine learning models with over 35,000 features to predict the tumor-specific total mRNA expression (TmS) across the two lung cancer types.\nPerformed survival analysis on TCGA datasets to examine time-to-event data, successfully identifying the significant factors influencing patient outcomes, which informed clinical decision-making.\nConducted Gene Set Enrichment Analysis (GSEA) with over 30,000 genes to validate the results, identifying the significantly over-expressed genes and pathways associated with cancer, contributing to the understanding of disease mechanisms.\n\nProject Intern - Indian Institute of Science\nJan ’23 - Jun ’23\nBengaluru, India\n\nSpearheaded rare variant-specific genome wide association studies (GWAS) utilizing WGS data in a cohort of over 2000 individuals.\nDeveloped and optimized an extensive parallelized computational pipeline to detect disease associations with rare variants and identify causal variants, and interpretation of the GWAS results using statistical plots.\nDeveloped an automated computational pipeline to run quality control measures and downstream genomic data analyses.\n\nResearch Intern - Leucine Rich Bio Pvt Ptd\nJun ’22 - Dec ’22\nBengaluru, India\n\nCurated and managed a comprehensive database highlighting key insights on the gut microbiome and its association with neurodegenerative diseases, specifically Parkinson’s disease (PD), facilitating data interpretation.\nExplored the implications of gut microbiome on PD through Bioinformatics data analysis on Galaxy."
+    "text": "Experience\n\nGraduate Research Assistant Jan 2024 – Dec 2024 Georgia Institute of Technology, Atlanta, GA\n\n\nDeveloped a computational pipeline to investigate the influence of ancestry and environment on polygenic scores across five diseases in a diverse WGS cohort of ~10,000 individuals\nIntegrated DNA methylation data to explore the impact of weathering on disease risk profiles\n\n\n\n\nSummer Intern Jun 2024 – Aug 2024 M.D. Anderson Cancer Center, Houston, TX\n\n\nImplemented machine learning models with over 35,000 features to predict tumor-specific total mRNA expression (TmS) across two lung cancer types\nPerformed survival analysis on TCGA datasets to examine time-to-event data, identifying significant factors influencing patient outcomes\nConducted Gene Set Enrichment Analysis (GSEA) with over 30,000 genes to validate results and identify significantly over-expressed genes and pathways\n\n\n\n\nProject Intern Jan 2023 – Jun 2023 Indian Institute of Science, Bengaluru, India\n\n\nSpearheaded rare variant-specific genome-wide association studies (GWAS) utilizing WGS data in a cohort of over 2,000 individuals\nDeveloped and optimized a parallelized computational pipeline to detect disease associations with rare variants and identify causal variants\nBuilt an automated pipeline for quality control and downstream genomic data analyses\n\n\n\n\nResearch Intern Jun 2022 – Dec 2022 Leucine Rich Bio Pvt Ltd, Bengaluru, India\n\n\nCurated and managed a comprehensive database highlighting key insights on the gut microbiome and its association with Parkinson’s disease\nExplored gut microbiome implications through bioinformatics data analysis on Galaxy"
   },
   {
     "objectID": "cv.html#projects",
     "href": "cv.html#projects",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "Projects",
-    "text": "Projects\n\nAlzheimer’s Disease classifier from fMRI data | GitHub\n\nLeveraged machine learning approaches to accurately classify and predict Alzheimer’s Disease patients, Mild Cognitive Impairment patients, and Healthy Controls using 60 fMRI scans from the ADNI database, achieving a prediction accuracy of 78%.\n\nCityScout - Identifying Safe Cities Based on Crime Statistics | GitHub\n\nLauched a web-based tool to identify safe U.S. cities for various use cases (e.g., girls’ trips, family relocation, vacation with children, etc.) and customizable filters tailored to specific demographics (e.g., resident, gender, children, etc.) by analyzing 2TB of FBI crime data using PySpark on Google Cloud Platform and Tableau for data visualization.\n\nComparison of ML models to predict absorption properties | GitHub\n\nApplied and compared four machine learning models to predict human plasma protein binding rate (PPBR), bioavailability (BIO) and parallel artificial membrane permeability assay (PAMPA) aiming to contribute to the advancement of predictive modeling in drug discovery. Utilized at least 11 features per property and the PyTDC data to build models, achieving a model accuracy of 71%."
+    "text": "Projects\n\nAlzheimer’s Disease Classifier from fMRI Data | GitHub\nLeveraged machine learning approaches to classify Alzheimer’s Disease patients, Mild Cognitive Impairment patients, and Healthy Controls using 60 fMRI scans from the ADNI database, achieving 78% prediction accuracy.\nCityScout – Identifying Safe Cities Based on Crime Statistics | GitHub\nBuilt a web-based tool to identify safe U.S. cities using customizable filters by analyzing 2 TB of FBI crime data via PySpark on Google Cloud Platform with Tableau visualization.\nComparison of ML Models to Predict Absorption Properties | GitHub\nApplied and compared four ML models to predict PPBR, bioavailability, and PAMPA for drug discovery applications, achieving 71% model accuracy using PyTDC data."
   },
   {
     "objectID": "cv.html#manuscripts-and-presentations",
     "href": "cv.html#manuscripts-and-presentations",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "Manuscripts and Presentations",
-    "text": "Manuscripts and Presentations\n\nPaul, A., Ji, S., Lal, J.C., Fong, C., Vinod, S., Hu, H., et al. Machine learning models predict tumor-specific total mRNA expression associated with clinical outcomes across 14 cancer types [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; Part 1 (Regular Abstracts); 2025 Apr 25-30; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2025;85(8_Suppl_1):Abstract nr 1095.\nVinod, S., Rajesh, S., KN, S., Karunakar, P. (2024). Identifying anti-diabetic potential of alpha-amylase inhibitors in Ocimum basilicum using In vitro and In silico approaches. Suranaree Journal of Science and Technology, 30(6), 030159(1-10). https://doi.org/10.55766/sujst-2023-06-e01323\nVinod, S., Karunakar, P. (Poster) Identification of potential inhibitor against Nipah virus using In silico approach. I-SENTIENT, School of Sciences, Jain (Deemed-to-be) University. September 2022.\nVinod, S., Rajesh, S., Karunakar, P., KN, S. Evaluating the anti-diabetic activity of alpha-amylase inhibitors in Cuminum cyminum using In vitro and In silico approach. International Journal of Computational Biology and Drug Design. Under review."
+    "text": "Manuscripts and Presentations\n\n\nPaul, A., Ji, S., Lal, J.C., Fong, C., Vinod, S., Hu, H., et al. Machine learning models predict tumor-specific total mRNA expression associated with clinical outcomes across 14 cancer types [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; 2025 Apr 25–30; Chicago, IL. Cancer Res 2025; 85(8_Suppl_1): Abstract nr 1095.\nVinod, S., Rajesh, S., KN, S., Karunakar, P. (2024). Identifying anti-diabetic potential of alpha-amylase inhibitors in Ocimum basilicum using In vitro and In silico approaches. Suranaree Journal of Science and Technology, 30(6), 030159(1–10). https://doi.org/10.55766/sujst-2023-06-e01323\nVinod, S., Karunakar, P. (Poster) Identification of potential inhibitor against Nipah virus using In silico approach. I-SENTIENT, School of Sciences, Jain (Deemed-to-be) University. September 2022.\nVinod, S., Rajesh, S., Karunakar, P., KN, S. Evaluating the anti-diabetic activity of alpha-amylase inhibitors in Cuminum cyminum using In vitro and In silico approach. International Journal of Computational Biology and Drug Design. Under review."
   },
   {
     "objectID": "cv.html#honors-and-awards",
     "href": "cv.html#honors-and-awards",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "Honors and Awards",
-    "text": "Honors and Awards\n\nComputational Biology Faculty Research Award (x2)\nGeorgia Institute of Technology, 2024\nProf. M. R. Doreswamy Merit Scholarship (x5)\nPES University, 2020–2023\nBest Paper Award\nI-SENTIENT Conference, School of Sciences at Jain (Deembed-to-be University), 2022\n1st Runner-up – Nutrathon\nPES University, 2022\nMillennium Fellowship\nUnited Nations Academic Impact & Millennium Campus Network, 2021\n2nd Runner-up – Druggathon\nPES University, 2021\nDistinction Award (x2)\nPES University, 2020–2023"
+    "text": "Honors and Awards\n\nComputational Biology Faculty Research Award (×2) 2024 Georgia Institute of Technology\n\n\nProf. M. R. Doreswamy Merit Scholarship (×5) 2020–2023 PES University\n\n\nBest Paper Award 2022 I-SENTIENT Conference, Jain University\n\n\n1st Runner-up – Nutrathon 2022 PES University\n\n\nMillennium Fellowship 2021 United Nations Academic Impact & Millennium Campus Network\n\n\n2nd Runner-up – Druggathon 2021 PES University\n\n\nDistinction Award (×2) 2020–2023 PES University"
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\n\nProgramming Languages: Python, R, Bash, SQL\nBioinformatics Software: BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner\nWorkflow Management and Containers: Nextflow, Docker, conda/miniconda\nVersion Control: Git\nLibraries: numpy, pandas, scikit-learn, Matplotlib, DESeq2, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny\nOther: HPC, AWS, Microsoft Azure, OpenRefine, PySpark\nLanguages: English, Hindi, Kannada, French (Beginner), German (Beginner)"
+    "text": "Skills\nProgramming Languages\n\nPython R Bash SQL\n\nBioinformatics Tools\n\nBLAST Galaxy AlphaFold AutoDock Vina Desmond GSEA PLINK VCF/BCF Tools Annovar SwissADME OpenBabel LigPlot+ CellDesigner\n\nLibraries & Frameworks\n\nnumpy pandas scikit-learn Matplotlib seaborn DESeq2 dplyr tidyr Seurat ggplot2 survival survminer TCGAbiolinks shiny\n\nWorkflow, Cloud & Other\n\nNextflow Docker conda/miniconda Git HPC AWS Microsoft Azure PySpark OpenRefine\n\nHuman Languages\n\nEnglish Hindi Kannada French (Beginner) German (Beginner)"
   },
   {
     "objectID": "cv.html#references",
     "href": "cv.html#references",
-    "title": "Suraksha Vinod",
+    "title": "Curriculum Vitae",
     "section": "References",
     "text": "References\nAvailable on request."
   },
@@ -165,7 +165,21 @@
     "href": "index.html",
     "title": "Suraksha Vinod",
     "section": "",
-    "text": "Welcome to my website!"
+    "text": "PhD student in Bioinformatics and Genomics at Penn State, broadly interested in computational approaches to understand how genetics, epigenetics, and environment shape human health and disease. My work sits at the intersection of statistical genomics, machine learning, and cancer biology.\n📍 State College, PA"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Suraksha Vinod",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nPopulation genetics and polygenic risk score portability across diverse ancestries\nEpigenomics and DNA methylation in disease risk and aging (weathering)\nMachine learning for cancer transcriptomics and clinical outcome prediction\nRare variant association studies and genome-wide association methods\nMulti-omics data integration for mechanistic disease understanding"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Suraksha Vinod",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\nAug 2025 — Started PhD in Bioinformatics & Genomics at Penn State\nApr 2025 — Abstract accepted at AACR Annual Meeting 2025 (Chicago): ML models predicting tumor-specific total mRNA expression across 14 cancer types\n2024 — Computational Biology Faculty Research Award (×2), Georgia Tech\n\n\nView Full CV →"
   },
   {
     "objectID": "posts/dal-recipe/index.html",
