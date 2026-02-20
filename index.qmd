@@ -14,7 +14,7 @@ about:
       href: https://github.com/surakshavinod
 ---
 
-PhD student in **Bioinformatics and Genomics** at Penn State, broadly interested in computational approaches to understand how genetics, epigenetics, and environment shape human health and disease. My work sits at the intersection of statistical genomics, machine learning, and cancer biology.
+PhD student in **Bioinformatics and Genomics** at Penn State
 
 📍 State College, PA
 
@@ -22,18 +22,15 @@ PhD student in **Bioinformatics and Genomics** at Penn State, broadly interested
 
 ## Research Interests
 
-- Population genetics and polygenic risk score portability across diverse ancestries
-- Epigenomics and DNA methylation in disease risk and aging (weathering)
-- Machine learning for cancer transcriptomics and clinical outcome prediction
-- Rare variant association studies and genome-wide association methods
-- Multi-omics data integration for mechanistic disease understanding
-
+- Complex Disorders
+- Statistical Genetics
+- Machine learning in Biology
 ---
 
 ## Recent Highlights
 
 - **Aug 2025** — Started PhD in Bioinformatics & Genomics at Penn State
-- **Apr 2025** — Abstract accepted at AACR Annual Meeting 2025 (Chicago): ML models predicting tumor-specific total mRNA expression across 14 cancer types
+- **May 2025** — Graduated with MS Bioinformatics from Georgia Tech!
 - **2024** — Computational Biology Faculty Research Award (×2), Georgia Tech
 
 ---
