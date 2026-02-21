@@ -6,7 +6,7 @@ toc-depth: 2
 
 
 
-📍 State College, PA &nbsp;|&nbsp; [suraksha.vinlak@gmail.com](mailto:suraksha.vinlak@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/surakshavinod) &nbsp;|&nbsp; [GitHub](https://github.com/surakshavinod)
+📍 State College, PA &nbsp;|&nbsp; [Email](mailto:suraksha.vinlak@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/surakshavinod) &nbsp;|&nbsp; [GitHub](https://github.com/surakshavinod)
 
 ---
 
@@ -20,13 +20,13 @@ toc-depth: 2
 
 <div class="cv-entry">
 <span class="cv-title">Master of Science – Bioinformatics</span>
-<span class="cv-date">Aug 2023 – May 2025</span>
+<span class="cv-date">Aug 2023 – May 2025</span><br>
 <span class="cv-org">Georgia Institute of Technology, Atlanta, GA</span>
 </div>
 
 <div class="cv-entry">
 <span class="cv-title">Bachelor of Technology – Biotechnology</span>
-<span class="cv-date">Aug 2019 – May 2023</span>
+<span class="cv-date">Aug 2019 – May 2023</span><br>
 <span class="cv-org">PES University, India</span>
 </div>
 
@@ -119,43 +119,43 @@ toc-depth: 2
 
 <div class="cv-entry">
 <span class="cv-title">Computational Biology Faculty Research Award (×2)</span>
-<span class="cv-date">2024</span>
+<span class="cv-date">2024</span><br>
 <span class="cv-org">Georgia Institute of Technology</span>
 </div>
 
 <div class="cv-entry">
 <span class="cv-title">Prof. M. R. Doreswamy Merit Scholarship (×5)</span>
-<span class="cv-date">2020–2023</span>
+<span class="cv-date">2020–2023</span><br>
 <span class="cv-org">PES University</span>
 </div>
 
 <div class="cv-entry">
 <span class="cv-title">Best Paper Award</span>
-<span class="cv-date">2022</span>
+<span class="cv-date">2022</span><br>
 <span class="cv-org">I-SENTIENT Conference, Jain University</span>
 </div>
 
 <div class="cv-entry">
 <span class="cv-title">1st Runner-up – Nutrathon</span>
-<span class="cv-date">2022</span>
+<span class="cv-date">2022</span><br>
 <span class="cv-org">PES University</span>
 </div>
 
 <div class="cv-entry">
 <span class="cv-title">Millennium Fellowship</span>
-<span class="cv-date">2021</span>
+<span class="cv-date">2021</span><br>
 <span class="cv-org">United Nations Academic Impact & Millennium Campus Network</span>
 </div>
 
 <div class="cv-entry">
 <span class="cv-title">2nd Runner-up – Druggathon</span>
-<span class="cv-date">2021</span>
+<span class="cv-date">2021</span><br>
 <span class="cv-org">PES University</span>
 </div>
 
 <div class="cv-entry">
 <span class="cv-title">Distinction Award (×2)</span>
-<span class="cv-date">2020–2023</span>
+<span class="cv-date">2020–2023</span><br>
 <span class="cv-org">PES University</span>
 </div>
 
